@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navBarHeight">56dp</dimen>
+    <dimen name="marginSize">16dp</dimen>
+    <dimen name="navBarTitleSize">22sp</dimen>
+    <dimen name="bodyTextSize">16sp</dimen>
+    <dimen name="marginTabSize">4dp</dimen>
+    <dimen name="itemIconSize">76dp</dimen>
+    <dimen name="itemPlaySize">36dp</dimen>
+    <dimen name="controlIconSize">70dp</dimen>
+    <dimen name="navIconSize">40dp</dimen>
+</resources>
