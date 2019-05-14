@@ -1,5 +1,9 @@
 # JiTaMusic
 
+<div width="300px">
+  <img src="./pics/logo.png" alt="logo"/>
+</div>
+
 ## Q&A
 
 - About the color matching in app?
@@ -9,6 +13,10 @@
 - About the icons in app?
 
 > They come from [Alibaba vector icon library](https://www.iconfont.cn/)
+
+- About the background in the play page?
+
+> By using the [glide-transformations](https://github.com/wasabeef/glide-transformations) to blur the image.
 
 ## Demo show
 
