@@ -4,6 +4,20 @@
   <img src="./pics/welcome_img.png" alt="logo"/>
 </div>
 
+## Quick Start
+
+1. clone
+
+```bash
+git clone git@github.com:ScarboroughCoral/JiTaMusic.git
+```
+
+2. open
+
+open the project root directory with `android studio`
+
+3. build&run
+
 ## Q&A
 
 - About the color matching in app?
