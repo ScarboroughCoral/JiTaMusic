@@ -1,6 +1,6 @@
 # JiTaMusic
 
-<div width="300px">
+<div width="300px" align="center" >
   <img src="./pics/welcome_img.png" alt="logo"/>
 </div>
 
