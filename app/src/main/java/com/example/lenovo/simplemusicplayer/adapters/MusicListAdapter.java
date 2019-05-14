@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import com.example.lenovo.simplemusicplayer.R;
 import com.example.lenovo.simplemusicplayer.entity.Mp3Info;
-import com.example.lenovo.simplemusicplayer.entity.Music;
 
 import java.util.List;
 
