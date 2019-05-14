@@ -14,9 +14,9 @@ git clone git@github.com:ScarboroughCoral/JiTaMusic.git
 
 2. open
 
-open the project root directory with `android studio`
+> Open the project root directory with `android studio`
 
-3. build&run
+3. build & run
 
 ## Q&A
 
