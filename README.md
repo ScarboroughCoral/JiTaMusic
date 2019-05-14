@@ -9,7 +9,7 @@
 1. clone
 
 ```bash
-git clone git@github.com:ScarboroughCoral/JiTaMusic.git
+git clone https://github.com/ScarboroughCoral/JiTaMusic.git
 ```
 
 2. open
