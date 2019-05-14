@@ -20,9 +20,11 @@
 
 ## Demo show
 
-![Demo](./pics/demo.gif)
+<div width="100%">
+  <img src="./pics/demo.gif" alt="demo1" width="50%" style="float:left"/>
+  <img src="./pics/demo2.gif" alt="demo2" width="50%"/>
+</div>
 
-![Demo2](./pics/demo2.gif)
 
 ## Main Directory tree
 
