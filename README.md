@@ -21,3 +21,5 @@
 ## Demo show
 
 ![Demo](./pics/demo.gif)
+
+![Demo2](./pics/demo2.gif)
