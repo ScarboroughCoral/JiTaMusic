@@ -23,3 +23,33 @@
 ![Demo](./pics/demo.gif)
 
 ![Demo2](./pics/demo2.gif)
+
+## Main Directory tree
+
+```
+├─java
+│  └─com
+│      └─example
+│          └─lenovo
+│              └─simplemusicplayer
+│                  ├─activities
+│                  ├─adapters
+│                  ├─entity
+│                  ├─helpers
+│                  └─util
+│                      └─mp3
+└─res
+    ├─anim
+    ├─drawable
+    ├─drawable-v24
+    ├─layout
+    ├─mipmap-anydpi-v26
+    ├─mipmap-hdpi
+    ├─mipmap-mdpi
+    ├─mipmap-xhdpi
+    ├─mipmap-xxhdpi
+    ├─mipmap-xxxhdpi
+    ├─values
+    └─values-v21
+
+```
