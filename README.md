@@ -1,7 +1,7 @@
 # JiTaMusic
 
 <div width="300px">
-  <img src="./pics/logo.png" alt="logo"/>
+  <img src="./pics/welcome_img.png" alt="logo"/>
 </div>
 
 ## Q&A
